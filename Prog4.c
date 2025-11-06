@@ -4,9 +4,9 @@ Ejercicio 4 Estructuras de Control Repetitivas*/
 void main()
 {
   int num;
-  for(num=0; num>0 && num<101; num++)
+  for(num=1; num<101; num++)
   {
-    num= num % 3 == 0;
-    printf("%d \n", num);
+    if(num % 3 ==0)
+      printf("%d \n", num);
   }
 }
