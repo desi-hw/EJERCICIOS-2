@@ -1,3 +1,5 @@
+/*Huitrón Was-Szabo Elizabeth Desireé
+Ejercicio 7 Estructuras de Control Repetitivas*/
 #include<stdio.h>
 #include<string.h>
 void main()
